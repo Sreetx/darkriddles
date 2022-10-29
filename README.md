@@ -2,7 +2,7 @@
 Darkriddles adalah script untuk meretas aku facebook. Kalian bisa menggunakan ini jika ingin merebut kembali aku facebook yang dibajak
 
 Penting
-KAMI TIDAK BERTANGGUNG JAWAB ATAS APAPUN YANG KALIAN LAKUKAN PADA WEBSITE ORANG LAIN
+KAMI TIDAK BERTANGGUNG JAWAB ATAS APAPUN YANG KALIAN LAKUKAN PADA AKUN ORANG LAIN
 KAMI MEMBUAT SCRIPT INI HANYA UNTUK MEREBUT KEMBALI AKUN FACEBOOK YANG DIBAJAK
 
 Yok bantu monetisasi kami dengan menngikuti beberapa akun yang kami miliki:
