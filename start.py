@@ -11,7 +11,7 @@ def banner(target, wordlist, prxy):
 <>=================================================<>
  |                    Dark Riddles                 |
  <=================================================>
- | Authors: Night Eagle                            |
+ | Authors: RX77E                                  |
  |[INFO]: KAMI TIDAK BERTANGGUNG JAWAB ATAS APAPUN |
  | YANG ANDA LAKUKAN                               |
  | TOOL'S INI HANYA DIGUNAKAN UNTUK MEREBUT KEMBALI|
@@ -110,7 +110,6 @@ if wordlist:
                 if l2:
                     pass
                     if l2 ==2:
-                        print('')
                         print('')
                         print('\a\a [+] Password ditemukan:', p.decode().strip())
                         print(' ')
